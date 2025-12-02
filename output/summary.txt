@@ -1,0 +1,7 @@
+CAMPUS ENERGY CONSUMPTION REPORT
+========================================
+Total Campus Consumption: 2995.00 kWh
+Highest Consuming Building: building2
+Peak Load Time: 2024-01-04 00:00:00
+Number of Buildings: 2
+Date Range: 2024-01-01 00:00:00 to 2024-01-04 01:00:00
